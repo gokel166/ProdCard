@@ -18,3 +18,17 @@ body
     margin: 60px auto;
     margin-left: 1000px;
 }
+
+.card {}
+
+.card-head
+{
+    position: relative;
+    height: 252px;
+    background: #fa782e;
+    background: -moz-linear-gradient(-45deg, #fa782e 8%, #c82930 83%);
+    background: -webkit-linear-gradient(-45deg, #fa782e 8%, #c82930 83%);
+    background: linear-gradient(135degt,  #fa782e 8%, #c82930 83%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fa782e',
+    endColorstr='#c8930', GradientType=1 );
+}
